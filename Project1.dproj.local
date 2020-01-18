@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/01/16 19:12:09.000.331,=C:\Users\HP\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/01/16 19:14:06.000.300,C:\Users\HP\Documents\Embarcadero\Studio\Projects\Unit1.dfm=G:\Andi\Delphi\Final\Tugas Terakhir\Unit1.dfm</Transaction>
+    <Transaction>2020/01/16 19:14:06.000.300,C:\Users\HP\Documents\Embarcadero\Studio\Projects\Unit1.pas=G:\Andi\Delphi\Final\Tugas Terakhir\Unit1.pas</Transaction>
+    <Transaction>2020/01/16 19:14:30.000.681,G:\Andi\Delphi\Final\Tugas Terakhir\Unit1.dfm=G:\Andi\Delphi\Final\Tugas Terakhir\Tugas1.dfm</Transaction>
+    <Transaction>2020/01/16 19:14:30.000.681,G:\Andi\Delphi\Final\Tugas Terakhir\Unit1.pas=G:\Andi\Delphi\Final\Tugas Terakhir\Tugas1.pas</Transaction>
+    <Transaction>2020/01/16 19:26:32.000.109,C:\Users\HP\Documents\Embarcadero\Studio\Projects\Project1.dproj=G:\Andi\Delphi\Final\Tugas Terakhir\Project1.dproj</Transaction>
+    <Transaction>2020/01/16 19:30:21.000.119,=G:\Andi\Delphi\Final\Tugas Terakhir\Unit2.pas</Transaction>
+    <Transaction>2020/01/16 19:30:33.000.289,G:\Andi\Delphi\Final\Tugas Terakhir\Unit2.pas=G:\Andi\Delphi\Final\Tugas Terakhir\Tugas2.pas</Transaction>
+    <Transaction>2020/01/16 19:30:33.000.289,G:\Andi\Delphi\Final\Tugas Terakhir\Unit2.dfm=G:\Andi\Delphi\Final\Tugas Terakhir\Tugas2.dfm</Transaction>
+    <Transaction>2020/01/16 19:46:33.000.128,=G:\Andi\Delphi\Final\Tugas Terakhir\Unit3.pas</Transaction>
+    <Transaction>2020/01/16 19:46:46.000.652,G:\Andi\Delphi\Final\Tugas Terakhir\Tugas3.dfm=G:\Andi\Delphi\Final\Tugas Terakhir\Unit3.dfm</Transaction>
+    <Transaction>2020/01/16 19:46:46.000.652,G:\Andi\Delphi\Final\Tugas Terakhir\Tugas3.pas=G:\Andi\Delphi\Final\Tugas Terakhir\Unit3.pas</Transaction>
+  </Transactions>
+</BorlandProject>
